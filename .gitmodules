@@ -1,0 +1,3 @@
+[submodule "external/FunctionHooker"]
+	path = external/FunctionHooker
+	url = git://github.com/relpatseht/FunctionHooking.git
